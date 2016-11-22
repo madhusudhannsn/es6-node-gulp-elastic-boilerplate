@@ -35,6 +35,6 @@ To watch for changes to JS
 
 	gulp watch
 
-To run the code in dev mode which builds the code and watches for changes
+To run the server in dev mode which builds the code and watches for changes
 
-  gulp
+  	gulp
