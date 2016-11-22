@@ -1,7 +1,7 @@
 # ES6-Node-Prototype
-It is a basic prototype for building Node.js project with ES6.
-This project sets you the necessary files to create a node.js project with ES6. It uses babel to compile ES6
-javascript. For building it uses gulp.
+It gives a basic Node JS project with ES6 and gulp..
+This project sets you the necessary files to run a node.js app with ES6 capabilities. It uses babel to compile ES6
+javascript.
 
 Requirements
 ============
