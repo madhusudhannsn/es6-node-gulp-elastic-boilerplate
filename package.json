@@ -1,0 +1,41 @@
+{
+  "name": "es6-node-prototype",
+  "version": "1.0.0",
+  "description": "It is a basic prototype for building Node.js project with ES6.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhusudhannsn/ES6-Node-Prototype.git"
+  },
+  "keywords": [
+    "Node",
+    "ES6",
+    "gulp",
+    "babel",
+    "node.js"
+  ],
+  "author": "Madhusudhan <madhusudhan.nsn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madhusudhannsn/ES6-Node-Prototype/issues"
+  },
+  "homepage": "https://github.com/madhusudhannsn/ES6-Node-Prototype#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015-node5": "^1.2.0",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.30",
+    "gulp-shell": "^0.5.2",
+    "gulp-watch": "^4.3.11",
+    "rimraf": "^2.5.4",
+    "run-sequence": "^1.2.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
