@@ -1,4 +1,4 @@
-# ES6-Node-Gulp-Boilerplate
+# ES6-Node-Gulp-Winston-Elastic-Boilerplate
 It gives a basic Node JS project with ES6 and gulp..
 This project sets you the necessary files to run a node.js app with ES6 capabilities. It uses babel to compile ES6
 javascript.
