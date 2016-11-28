@@ -14,6 +14,7 @@ Installation
 * Clone repo into a folder
 * `cd ES6-Node-Prototype`
 * `npm install` - install node deps
+* Install and run elasticsearch instance 
 * `gulp build` - static build
 * `gulp` - start the server in dev mode
 * `npm start` - start server
