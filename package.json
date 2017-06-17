@@ -15,7 +15,10 @@
     "ES6",
     "gulp",
     "babel",
-    "node.js"
+    "node.js",
+    "elasticsearch",
+    "starter",
+    "starter-kit"
   ],
   "author": "Madhusudhan <madhusudhan.nsn@gmail.com>",
   "license": "MIT",
