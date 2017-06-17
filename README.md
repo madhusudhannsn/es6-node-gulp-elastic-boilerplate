@@ -13,6 +13,7 @@ Installation
 
 * Clone repo into a folder
 * `cd es6-node-gulp-elastic-boilerplate`
+* `npm install -g gulp`
 * `npm install` - install node deps
 * Install and run elasticsearch instance 
 * `gulp build` - static build
